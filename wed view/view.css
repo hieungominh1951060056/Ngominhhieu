@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer a {
+    text-decoration: none;
+}
+.btn-new {
+    background-color: green;
+    padding: 5px 10px;
+    color: white;
+}
+.tiltle-btn-wrap {
+    align-items: center;
+    display: flex;
+}
+
+.content {
+    text-align: justify;
+}
+
+footer a {
+    text-decoration: none;
+}
